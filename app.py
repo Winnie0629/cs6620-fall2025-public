@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app)
 
 # In your Flask app file, update a comment or add a version identifier:
-# Version: 1.0.333333
+# Version: 2.0
 # Built with GitHub Actions
 
 # Global variables for playlist management
